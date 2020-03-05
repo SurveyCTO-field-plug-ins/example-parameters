@@ -22,7 +22,7 @@ for(var i = 0; i < paramsObj.length; i++) {
 
 // Define what happens when the user attempts to clear the response
 function clearAnswer() {
-    input.innerHTML = '';
+    input.value = '';
 } 
 
 // If the field is not marked readonly, then focus on the field and show the on-screen keyboard (for mobile devices)
