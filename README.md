@@ -1,6 +1,6 @@
 # example-parameters
 
-![A text field using this plug-in](extras/preview.jpg)
+![A text field using this plug-in](extras/example-parameters.jpg)
 
 ## Description
 
